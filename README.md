@@ -13,3 +13,5 @@ Usado a biblioteca do tkinter para fazer a parte do front-end
 Customizado a janela do tkinter.
 
 Decidi fazer um jogo mais complexo de um codigo que fiz a muito tempo, em que tem que advinhar um numero entre 0 e 100.
+
+Codigo terminado.
